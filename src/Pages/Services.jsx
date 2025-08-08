@@ -49,7 +49,7 @@ const WhatIDo = () => {
 
  const services = [
   {
-    image: "/Assets/Full Stack.png",
+    image: "/Assets/FullStack.png",
     title: "Full-Stack Web Development",
     description: "I build scalable web applications using the MERN stack (MongoDB, Express.js, React, Node.js)."
   },
